@@ -24,4 +24,6 @@
 <div align="center">
   
   ![Snake animation](https://github.com/lucasgga1/lucasgga1/blob/output/github-contribution-grid-snake.svg)
+  
+  ### Developing Developer
 </div>
