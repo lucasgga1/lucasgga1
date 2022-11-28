@@ -8,7 +8,7 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgga7&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div><br>
+</div><br><br>
 <div align="center" valign="top">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
